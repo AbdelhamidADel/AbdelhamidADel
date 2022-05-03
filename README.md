@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AbdelhamidADel
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Data Science Field , Data Analysis
+- 💞️ Looking to collaborate/work on any data science related projects.
+- 🌎 Born in Egypt  Live in Cairo , Dream Country is Germany
