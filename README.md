@@ -9,6 +9,7 @@
 
 
 [![card](https://github-readme-stats.vercel.app/api?username=AbdelhamidADel&theme=default)](https://github.com/iuricode/)
-
-
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelhamidADel&hide=html&layout=compact&theme=default)](https://github.com/iuricode/)
+
+![AbdelhamidADel_GitHub](https://user-images.githubusercontent.com/104658866/172026743-ace9d8a5-c83d-4e50-88c7-2ddf213788ab.png)
+
