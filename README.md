@@ -16,6 +16,8 @@
 <code><img height="20" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"></code>
 <code><img height="20" src="https://icon-library.com/images/terminal-icon-png/terminal-icon-png-0.jpg"></code>
+<code><img height="20" src="https://img.icons8.com/color/344/visual-studio-code-2019.png"></code>
+<code><img height="20" src="https://img.icons8.com/color/344/microsoft-excel-2019--v1.png"></code>
 
 --------------------------------------------------
 ![AbdelhamidADel_GitHub](https://user-images.githubusercontent.com/104658866/172026743-ace9d8a5-c83d-4e50-88c7-2ddf213788ab.png)
