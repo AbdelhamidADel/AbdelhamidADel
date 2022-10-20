@@ -3,12 +3,12 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AbdelhamidADel&label=Profile%20views&color=0e75b6&style=flat" alt="sohailadiab" /> </p>
 
 
-- 📍 Cairo, Egypt
 
-- 🏫 Helwan University, Faculty of Science
+<p align="center"> 📍 Cairo, Egypt</p>
+<p align="center"> 🏫 Helwan University, Faculty of Science</p>
 
-<h3 align="left">Connect with me 🤝:</h3>
-<p align="left">
+<h3 align="center">Connect with me </h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/abdelhamid-adel-9523441ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 <a href="mailto:abdelhamidadel67@gmail.com"?subject = Feedback&body = Message"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631" height="30" width="40" /></a>
 </p>
