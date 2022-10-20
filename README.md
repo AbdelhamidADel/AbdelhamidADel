@@ -1,10 +1,17 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<h1 align="center">Hello! 👋<br> I'm Abdelhamid Adel</h1>
+<h3 align="center">Data Scientist | Data analyst l knowledgeable in Machine learning - Deep learning - NLP - Computer Vision</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AbdelhamidADel&label=Profile%20views&color=0e75b6&style=flat" alt="sohailadiab" /> </p>
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Abdelhamid&color=A760FF&style=for-the-badge&logo=GitHub">
 
-![](https://komarev.com/ghpvc/?username=AbdelhamidADel&color=blueviolet)  
+- 📍 Cairo, Egypt
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=2C3E50&size=30&lines=Hey!+It's+Abdelhamid;I'm+a+Data+Scientist...;Looking+to+Collaborate+or;Work+On+DS+Projects)
+- 🏫 Helwan University, Faculty of Science
+
+<h3 align="left">Connect with me 🤝:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/abdelhamid-adel-9523441ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="mailto:abdelhamidadel67@gmail.com"?subject = Feedback&body = Message"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20221017173631" height="30" width="40" /></a>
+</p>
 
 --------------------------------------------------
 [![card](https://github-readme-stats.vercel.app/api?username=AbdelhamidADel&theme=default)](https://github.com/iuricode/)
