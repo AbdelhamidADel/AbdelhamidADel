@@ -45,6 +45,7 @@
 <code><img height="50" src="https://img.icons8.com/color/344/visual-studio-code-2019.png"></code>
 <code><img height="50" src="https://img.icons8.com/color/344/microsoft-excel-2019--v1.png"></code>
 <code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8lKxY08kSiKtFzvscOFI2HhjPq8YfsSY9exxmCZ379jTrcXk&s"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code><img height="50" src="https://cdn-icons-png.flaticon.com/512/288/288882.png"></code>
 <code><img height="50" src="https://img.icons8.com/color/512/bootstrap.png"></code>
 <code><img height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"></code>
@@ -55,6 +56,7 @@
 <code><img height="50" src="https://logos-download.com/wp-content/uploads/2021/01/Scikit_Learn_Logo-700x378.png"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg"></code>
+
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
