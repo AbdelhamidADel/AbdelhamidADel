@@ -60,4 +60,4 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2 align="center">My Github Page Qr Code</h2>
-<h2 align="center"><img src="https://user-images.githubusercontent.com/104658866/172026743-ace9d8a5-c83d-4e50-88c7-2ddf213788ab.png"></h2>
+<h2 align="center"><img height="400" src="https://user-images.githubusercontent.com/104658866/217286787-5332d1d0-d34e-4b14-9410-c0ebc16b045f.png"></h2>
