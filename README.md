@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hello! 👋<br> I'm Abdelhamid Adel</h1>
-<h3 align="center">Data Scientist | Data analyst l knowledgeable in Machine learning - Deep learning - NLP - Computer Vision</h3>
+<h3 align="center">Data Engineer With +1 years an understanding of data Warehouse, ETL and data modeling</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AbdelhamidADel&label=Profile%20views&color=0e75b6&style=flat" alt="sohailadiab" /> </p>
 
 
@@ -27,11 +27,9 @@
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b></h2>
 
 
-<img alt="AbdelhamidADel's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=AbdelhamidADel&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-
 <p align="center">
-    <a href="https://github.com/AbdelhamidADel"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdelhamidADel&theme=tokyonight&hide_border=true"  width="520" alt="AbdelhamidADel"/></a>
-<a href="https://github.com/AbdelhamidADel"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdelhamidADel&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320"  alt="AbdelhamidADel"/></a>
+    <a href="https://github.com/AbdelhamidADel"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdelhamidADel&theme=tokyonight&hide_border=true"  width="520" height="200" alt="AbdelhamidADel"/></a>
+<a href="https://github.com/AbdelhamidADel"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdelhamidADel&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="320" height="200" alt="AbdelhamidADel"/></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
